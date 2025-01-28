@@ -13387,6 +13387,8 @@ desc=An entrance to Gu'Tanoth.
 model=model_loc_52
 op1=Open
 active=yes
+category=double_door_open_and_close_left
+param=next_loc_stage,loc_1562
 
 [loc_2787]
 name=City gate
@@ -13395,6 +13397,8 @@ model=model_loc_52
 op1=Open
 active=yes
 mirror=yes
+category=double_door_open_and_close_right
+param=next_loc_stage,loc_1563
 
 [loc_2788]
 name=City gate
@@ -13402,6 +13406,8 @@ desc=An entrance to Gu'Tanoth.
 model=model_loc_52
 op1=Open
 active=yes
+category=double_door_open_and_close_left
+param=next_loc_stage,loc_1562
 
 [loc_2789]
 name=City gate
@@ -13410,6 +13416,8 @@ model=model_loc_52
 op1=Open
 active=yes
 mirror=yes
+category=double_door_open_and_close_right
+param=next_loc_stage,loc_1563
 
 [loc_2790]
 name=Chest
@@ -13511,6 +13519,7 @@ width=4
 length=2
 op1=Enter
 active=yes
+category=watchtower_cave_entrance
 
 [loc_2805]
 name=Cave entrance
@@ -13519,6 +13528,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2806]
 name=Cave entrance
@@ -13527,6 +13537,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2807]
 name=Cave entrance
@@ -13535,6 +13546,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2808]
 name=Cave entrance
@@ -13543,6 +13555,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2809]
 name=Cave entrance
@@ -13551,6 +13564,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2810]
 name=Cave entrance
@@ -13559,6 +13573,7 @@ model=model_loc_2
 width=4
 length=2
 op1=Enter
+category=watchtower_cave_entrance
 
 [loc_2811]
 name=Cave entrance
