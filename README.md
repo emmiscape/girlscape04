@@ -2,6 +2,8 @@
 Hi! This is a fork of 2004scape/Lost City made by Emmi (flymouse) for her friends and such to play on.
 This is my first time using Github, hosting a server, or really doing any programming since I was a kid, so expect any changes made to be bandaids at best. Huge thank you to Pazaz, Tannerdino, and everyone else at 2004scape for being the reason this is possible.
 
+If you'd like to learn more, please check out 2004scape (https://2004.lostcity.rs).
+
 TODO: implement whitelist feature, remove chat censor, add global chat.
 
 Below you can see the original Readme. Credit Pazaz.
